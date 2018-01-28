@@ -1,0 +1,198 @@
+/* COLOUR REFERENCES
+
+Green:		#79b044
+Salmon:		#dd5638
+Blue Gray:  #3e4249
+
+*/
+
+/* ==== GENERAL ==== */
+
+body {
+	margin-top: 50px;
+	font-family: 'Open Sans', sans-serif;	
+	font-size: 14px;
+	background: #fff;
+}
+
+.col-sm-3 {
+	padding-bottom: 30px; 
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	font-size: 25px; 
+	padding: 10px; 
+}
+
+h2 {
+	font-size: 22px;
+	padding: 10px;  
+}
+
+h3 {
+	font-size: 19px; 
+	padding: 10px; 
+}
+
+h4 {
+	font-size: 16px; 
+	padding: 10px; 
+}
+
+h5 {
+	font-size: 13px; 
+	padding: 10px; 
+}
+
+h6 {
+	font-size: 10px; 
+	padding: 10px; 
+}
+
+p {
+	padding: 10px; 
+}
+
+/* ==== NAV ==== */
+
+.navbar {
+	margin-bottom: 40px; 
+	font-weight: 400; 
+	font-size: 13px; 
+	text-color: #fff; 
+	background-color: #070807; 
+	font-color: #fff; 
+	border: 0px; 
+	height: 90px; 
+	padding-top: 20px; 
+	color: #fff; 
+}
+
+.navbar-collapse {
+	background-color: #070807; 	
+	border: none; 
+	color: #fff; 
+}
+
+
+/* ==== HERO ==== */
+
+
+
+.hero { 
+	text-align: center; 
+	height: 650px; 
+	background-color: #070807; 	
+}
+
+.title {
+	margin-top: 250px; 
+	color: #f1f1f1; 
+}
+
+
+/* ==== FEATURED ==== */
+
+.featured {
+	padding-top: 80px; 
+	padding-bottom: 80px; 
+}
+
+.featured-image {
+	padding: 20px; 
+}
+
+.featured-text {
+	padding: 20px; 
+}
+
+
+/* ==== ABOUT ==== */
+
+.about {
+	padding: 40px; 
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%; 
+	padding-top: 150px; 
+	padding-bottom:150px; 
+	background-color: #070807;
+	color: #fff; 
+}
+
+/* ==== PROJECTS ==== */
+
+.project-title {
+	text-align: right; 
+}
+
+.project-section {
+	padding-top: 150px; 
+	padding-bottom:150px; 
+	padding-right: 40px;
+	padding-left: 40px; 
+}
+
+.project-image {
+	padding: 20px;
+	text-align: center;  
+}
+
+
+
+/* ==== STAFF ==== */
+
+.team {
+	padding: 40px; 
+	text-align: center;
+	padding-left: 80px;
+	padding-right: 80px; 
+	padding-top: 80px; 
+	padding-bottom:80px; 
+	background-color: #070807;
+	color: #fff; 
+}
+
+.team-text {
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%; 
+	padding-top: 20px; 
+	padding-bottom:20px; 
+	background-color: #070807;
+	color: #fff; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
